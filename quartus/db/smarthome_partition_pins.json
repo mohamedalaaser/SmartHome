@@ -1,0 +1,57 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "blueORsensors",
+					"strict" : false
+				},
+				{
+					"name" : "buzzerOUT",
+					"strict" : false
+				},
+				{
+					"name" : "ledlightsOUT",
+					"strict" : false
+				},
+				{
+					"name" : "pwm",
+					"strict" : false
+				},
+				{
+					"name" : "test",
+					"strict" : false
+				},
+				{
+					"name" : "bsSwitch",
+					"strict" : false
+				},
+				{
+					"name" : "ledlightsIN",
+					"strict" : false
+				},
+				{
+					"name" : "lightsensorIN",
+					"strict" : false
+				},
+				{
+					"name" : "irsensorIN",
+					"strict" : false
+				},
+				{
+					"name" : "doorIN",
+					"strict" : false
+				},
+				{
+					"name" : "clock",
+					"strict" : false
+				},
+				{
+					"name" : "buzzerIN",
+					"strict" : false
+				}
+			]
+		}
+	]
+}

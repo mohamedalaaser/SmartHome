@@ -1,0 +1,16 @@
+Fitter Status : Successful - Sat Mar 06 15:37:06 2021
+Quartus Prime Version : 20.1.1 Build 720 11/11/2020 SJ Lite Edition
+Revision Name : smarthome
+Top-level Entity Name : smarthome
+Family : Cyclone IV E
+Device : EP4CE6E22C8
+Timing Models : Final
+Total logic elements : 266 / 6,272 ( 4 % )
+    Total combinational functions : 266 / 6,272 ( 4 % )
+    Dedicated logic registers : 98 / 6,272 ( 2 % )
+Total registers : 98
+Total pins : 12 / 92 ( 13 % )
+Total virtual pins : 0
+Total memory bits : 0 / 276,480 ( 0 % )
+Embedded Multiplier 9-bit elements : 0 / 30 ( 0 % )
+Total PLLs : 0 / 2 ( 0 % )
